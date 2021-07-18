@@ -2,8 +2,8 @@ from django.urls import path
 
 
 
-
+app_name = 'accountapp'
 
 urlpatterns = [
-    pa
+    path('')
 ]
