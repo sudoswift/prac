@@ -2,5 +2,5 @@ from django.shortcuts import render
 
 # Create your views here.
 
-class LoginView(LoginView):
+class DetailView(DetailView):
     
